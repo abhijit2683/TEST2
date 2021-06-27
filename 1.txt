@@ -2,3 +2,5 @@
 Oracle sql
 edi
 added in git
+
+python workflow to send file AWS S3
