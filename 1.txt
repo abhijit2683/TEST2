@@ -1,4 +1,4 @@
 12345@abhijt.com
-sql
+Oracle sql
 edi
 added in git
