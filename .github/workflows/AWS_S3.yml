@@ -1,5 +1,5 @@
 name: Upload to S3
-on: push
+on:[pull request]
 
 jobs:
   upload:
